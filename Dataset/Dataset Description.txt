@@ -1,0 +1,52 @@
+DESCRIPTION
+A Ful Product Listing of Amazon Australia Products.
+SUMMARY
+Context
+This dataset was created by our in house teams at PromptCloud and DataStock. This dataset contains a sample of 30K records in it. You can download the full dataset [here](https://app.datastock.shop/?site_name=Amazon Australia Product Listing).
+
+Content
+This dataset contains the following:
+Total Records Count: 982565 
+Domain Name:: amazon.com.au 
+Date Range : 01st Nov 2019 - 30th Nov 2019  
+File Extension: CSV
+
+Available Fields :
+Uniq Id,
+Crawl Timestamp,
+Dataset Origin,
+Product Id,
+Product Barcode,
+Product Company Type Source,
+Product Brand Source,
+Product Brand Normalised Source,
+Product Name Source,
+Match Rank,
+Match Score,
+Match Type,
+Retailer,
+Product Category,
+Product Brand,
+Product Name,
+Product Price,
+SKU,
+Upc,
+Product Url,
+Market,
+Product Description,
+Product Currency,
+Product Available Inventory,
+Product Image Url,
+Product Model Number,
+Product Tags,
+Product Contents,
+Joining Key
+
+Acknowledgements
+We wouldn't be here without the help of our in house web scraping and data mining teams at PromptCloud and DataStock.
+
+Inspiration
+This dataset was created keeping in mind the data scientists and data researchers across the globe. you can use this dataset for various analytical purposes.
+
+
+https://data.world/promptcloud/amazon-australia-product-listing
